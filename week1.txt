@@ -25,3 +25,10 @@ Javascript is for interation
 
 to run HTML code, just copy and then paste it on the notepad file and save it with the extension .html and open it with anyy browser.
 
+
+#introduction to CSS
+syntax:
+selector{
+property1:value1;
+
+}
