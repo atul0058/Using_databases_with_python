@@ -1,2 +1,2 @@
-# d3.js-
-To make the web visulaisation of the project FRED by pulling data from the SQL database on a pi.
+https://www.coursera.org/learn/python-databases/lecture/CGkdb/welcome-to-using-databases-with-python
+
